@@ -26,7 +26,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Arnold-git/Arnold-git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?Arnold-git&hide=jupyter notebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold-git&hide=jupyter notebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Arnold-git/Arnold-git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnold-git&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnold's GitHub Stats" />
