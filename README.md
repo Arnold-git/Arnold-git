@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=rexsimiloluwah&color=green)
+![](https://komarev.com/ghpvc/?username=Arnold-git&color=green)
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr></hr>
 I am Arnold Ighiwiyisi, Engineering Undergrad with Interest in AI, Machine Learning and Software Engineering. I have personal commitment of learning everyday.
