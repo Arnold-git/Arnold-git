@@ -3,7 +3,7 @@
 <hr></hr>
 I am Arnold Ighiwiyisi, Engineering Undergrad with Interest in AI, Machine Learning and Software Engineering. I have personal commitment of learning everyday.
 
-### About Similoluwa
+### About Arnold
 - 🔭 I’m currently working on improving my problem solving skills and software engineering skills.
 - 🌱 I’m currently learning Machine learning, Backend web technologies, and statistics.
 - 👯 I’m looking to collaborate on building great software.
