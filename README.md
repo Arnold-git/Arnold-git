@@ -10,7 +10,8 @@ I am Arnold Ighiwiyisi, Engineering Undergrad with Interest in AI, Machine Learn
 - 💬 Ask me about anything. I don't know it all, but I know where and how to find answers (I reserve the rights to recant this statement 😄)
 - 😄 Pronouns: He, Him, His.
 - ⚡ Fun fact: I cannot play PS 😂.
-- 📌 Favourite Quote: > Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years.
+- 📌 Favourite Quote: 
+> Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
