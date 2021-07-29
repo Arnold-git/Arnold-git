@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Arnold-git&color=green)
 ### Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr></hr>
-I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to personal development and everyday learning commitment.
+I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my personal development and everyday learning commitment.
 
 ### About Arnold
 - 🔭 I’m currently working on improving my problem solving skills and software engineering skills.
