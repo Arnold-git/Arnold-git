@@ -11,7 +11,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 - 😄 Pronouns: He, Him, His.
 - ⚡ Fun fact: I cannot play PS 😂.
 - 📌 Favourite Quote: 
-> **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years.**
+> **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years. James Clear**
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
