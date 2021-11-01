@@ -5,7 +5,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 
 ### About Arnold
 - 🔭 I’m currently working on improving my problem solving skills and software engineering skills.
-- 🌱 I’m currently learning Machine learning, Backend web technologie, DevOps and statistics.
+- 🌱 I’m currently learning Machine learning, Backend web technologie, DevOps.
 - 👯 I’m looking to collaborate on building great software.
 - 💬 Ask me about anything. I don't know it all, but I know where and how to find answers (I reserve the rights to recant this statement 😄)
 - 😄 Pronouns: He, Him, His.
