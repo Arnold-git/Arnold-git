@@ -8,7 +8,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 - 🌱 I’m currently learning Machine learning Operations (MLOps), Backend web technologie, DevOps.
 - 👯 I’m looking to collaborate on building great software.
 - 💬 Ask me about anything. I don't know it all, but I know where and how to find answers (I reserve the rights to recant this statement 😄)
-- 😄 Pronouns: He, Him, His.
+- 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I cannot play PS 😂.
 - 📌 Favourite Quote: 
 > **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years. James Clear**
