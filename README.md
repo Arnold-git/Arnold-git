@@ -11,7 +11,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I cannot play PS 😂.
 - 📌 Favourite Quote: 
-- ✍️ I Occassionally write on ![Hashnode](https://arnoldighiwiyisi.hashnode.dev/) 
+- ✍️ I Occassionally write on [Hashnode](https://arnoldighiwiyisi.hashnode.dev/) 
 
 Check out my latest article:
 
