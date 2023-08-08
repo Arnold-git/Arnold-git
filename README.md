@@ -14,9 +14,10 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 - ✍️ I Occassionally write on ![Hashnode](https://arnoldighiwiyisi.hashnode.dev/) 
 
 Check out my latest article:
-- ![The Value of Docker Container in Software Development](https://arnoldighiwiyisi.hashnode.dev/the-value-of-docker-container-in-software-development?showSharer=true)
-- ![Build and Deploy a Sentiment Analysis API with FastAPI, Docker, and Google Cloud Run](https://arnoldighiwiyisi.hashnode.dev/build-and-deploy-a-sentiment-analysis-api-with-fastapi-docker-and-google-cloud-run)
-- ![Pandas Dataframe isin Method](https://arnoldighiwiyisi.hashnode.dev/pandas-dataframe-isin-method-8926ce3ca7c)
+
+- [The Value of Docker Container in Software Development](https://arnoldighiwiyisi.hashnode.dev/the-value-of-docker-container-in-software-development?showSharer=true)
+- [Build and Deploy a Sentiment Analysis API with FastAPI, Docker, and Google Cloud Run](https://arnoldighiwiyisi.hashnode.dev/build-and-deploy-a-sentiment-analysis-api-with-fastapi-docker-and-google-cloud-run)
+- [Pandas Dataframe isin Method](https://arnoldighiwiyisi.hashnode.dev/pandas-dataframe-isin-method-8926ce3ca7c)
 
 > **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years. James Clear**
 
