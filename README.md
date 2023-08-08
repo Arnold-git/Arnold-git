@@ -11,6 +11,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I cannot play PS 😂.
 - 📌 Favourite Quote: 
+> **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years. James Clear**
 - ✍️ I Occassionally write on [Hashnode](https://arnoldighiwiyisi.hashnode.dev/) 
 
 Check out my latest article:
@@ -19,7 +20,7 @@ Check out my latest article:
 - [Build and Deploy a Sentiment Analysis API with FastAPI, Docker, and Google Cloud Run](https://arnoldighiwiyisi.hashnode.dev/build-and-deploy-a-sentiment-analysis-api-with-fastapi-docker-and-google-cloud-run)
 - [Pandas Dataframe isin Method](https://arnoldighiwiyisi.hashnode.dev/pandas-dataframe-isin-method-8926ce3ca7c)
 
-> **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years. James Clear**
+
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
