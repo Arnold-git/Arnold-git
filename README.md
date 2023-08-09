@@ -12,7 +12,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 - ⚡ Fun fact: I cannot play PS 😂.
 - 📌 Favourite Quote: 
 > **Changes that seems small & unimportant at first will compound into remarkable results if you are willing to stick with them for years. James Clear**
-- ✍️ I Occassionally write on [Hashnode](https://arnoldighiwiyisi.hashnode.dev/) 
+- ✍️ I occassionally write on [Hashnode](https://arnoldighiwiyisi.hashnode.dev/) 
 
 Check out my latest articles:
 
