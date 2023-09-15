@@ -16,6 +16,7 @@ I am Arnold Ighiwiyisi,AI and Software Developer. I'm 100% commitment to my pers
 
 Check out my latest articles:
 
+- [How to deploy FastAPI web Application on Azure Container Apps](https://arnoldighiwiyisi.hashnode.dev/how-to-deploy-fastapi-web-application-on-azure-container-apps)
 - [The Value of Docker Container in Software Development](https://arnoldighiwiyisi.hashnode.dev/the-value-of-docker-container-in-software-development?showSharer=true)
 - [Build and Deploy a Sentiment Analysis API with FastAPI, Docker, and Google Cloud Run](https://arnoldighiwiyisi.hashnode.dev/build-and-deploy-a-sentiment-analysis-api-with-fastapi-docker-and-google-cloud-run)
 - [Pandas Dataframe isin Method](https://arnoldighiwiyisi.hashnode.dev/pandas-dataframe-isin-method-8926ce3ca7c)
